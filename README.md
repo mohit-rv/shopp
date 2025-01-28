@@ -1,6 +1,6 @@
 # machine_test
 
-A new Flutter project.
+A new Flutter project. Ajay sir project created for both ios and android through getx 
 
 ## Getting Started
 
